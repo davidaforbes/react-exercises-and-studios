@@ -1,11 +1,14 @@
 .choresText {
-   color: rgb(181, 182, 130);
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: rgb(137, 85, 197);
+   font-family:'Times New Roman', Times, serif;
    font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
-   color: rgb(181, 182, 130);
+   color: rgb(87, 22, 131);
    text-decoration: underline;
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family:'Times New Roman', Times, serif ;
+   font-size: 50px;
+   text-align: left;
 }

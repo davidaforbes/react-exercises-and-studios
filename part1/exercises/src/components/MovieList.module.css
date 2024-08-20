@@ -2,9 +2,12 @@
    color: rgb(0, 140, 221);
    text-align: left;
    font-size: 30px;
+   background-color: rgb(221, 188, 0);
 }
 
 .movieHeading {
    color: rgb(221, 188, 0);
    font-size: 50px;
+   text-align: left;
+   background-color:rgb(0, 140, 221) ;
 }
