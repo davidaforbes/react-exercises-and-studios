@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Stage Combat</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>Stage Combat entails any simulated violence for the stage or screen! Common disciplines include unarmed, quarterstaff, single sword, and sword & shield</li>
+            <li>Actors work together to choreograph every step of the fight, like a dance. But with punching! Extra care must be taken to ensure the punches don't connect...</li>
+            <li>The SAFD, the Society of American Fight Directors, is the largest stage combat union in the USA. They accredit actors in 8 different disciplines of combat.</li>
          </ol>
       </div>
    );
